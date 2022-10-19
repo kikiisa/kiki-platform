@@ -1,0 +1,60 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #F1F5F9;
+}
+
+
+.strong {
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+.hero {
+    cursor: pointer;
+    margin-top: 50px;
+    background-color: #37CDBE;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.article {
+    margin-top: 50px;
+}
+.article-post {
+    margin-top: 100px;
+}
+
+.category-style{
+    font-size: 20px;
+}
+
+.sub-article {
+    color: #475569;
+    margin-top: 20px;
+}
+
+.sub-card {
+
+    color: #37CDBE;
+}
+
+.footer {
+    height: 0px;
+    padding-top: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
